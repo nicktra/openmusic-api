@@ -1,0 +1,19 @@
+{
+  "name": "openmusic-api",
+  "version": "1.0.0",
+  "description": "OpenMusic API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicktra/openmusic-api.git"
+  },
+  "author": "Konik Saputra <koniksaputra@live.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicktra/openmusic-api/issues"
+  },
+  "homepage": "https://github.com/nicktra/openmusic-api#readme"
+}
