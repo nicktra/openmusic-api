@@ -1,6 +1,5 @@
 {
     "env": {
-        "commonjs": true,
         "es2021": true,
         "node": true
     },
@@ -12,7 +11,6 @@
     },
     "rules": {
         "no-console": "off",
-        "linebreak-style": "off",
-        "no-unneeded-ternary": "off"
+        "linebreak-style": "off"
     }
 }
