@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 Things you need to install the software and how to install them
 
 ```
-Browser
+npm install npm@latest -g
 ```
 
 ### Installing
@@ -34,7 +34,16 @@ Browser
 ```sh
 git clone https://github.com/nicktra/openmusic-api.git
 ```
-2. Run with your local live server
+
+2. Install NPM packages
+```sh
+npm install
+```
+
+3. Download .env file and change it with your value
+* [https://s.id/openmusic-env](https://s.id/openmusic-env)
+
+4. Run with your local live server
 
 ## Deployment
 
